@@ -64,5 +64,3 @@ By nesting a global skip connection (Bicubic) with local skip connections (Resid
 **C. Satellite Specific Feature Calibration**
 
 The use of Channel Attention without Batch Normalization is a critical choice. Removing Batch Norm (as popularized by EDSR) preserves the absolute intensity range of satellite sensors, while CA prioritizes the structural features unique to aerial perspectives.
-#
-**Summary:** I could achieve a PSNR score of 35db+ and SSIM score of around 0.9 with this approach. 

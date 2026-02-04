@@ -1,5 +1,11 @@
 # **Satellite Image Super-Resolution: Technical Approach and Architecture**
 
+Link to kaggle notebooks :
+
+Train: https://www.kaggle.com/code/shashwatparikh/geospatial
+
+Inference: https://www.kaggle.com/code/shashwatparikh/inference-notebook
+
 This document provides a comprehensive overview of the methodologies, architectural choices, and technical innovations I implemented in the Advanced EDSR (Enhanced Deep Residual Networks) with Channel Attention model for $4\times$ satellite imagery super-resolution.
 
 ## 1. Core Architecture
